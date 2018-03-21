@@ -4,6 +4,7 @@ Course CS112 &amp; CS205 Assignments Solutions.
 **CS112 : Programming and Data Structures Laboratory**
 
 **CS205 : Algorithm Laboratory**
+(**IIT PATNA**)
 
 
 ## Authors
